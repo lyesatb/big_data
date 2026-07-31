@@ -14,10 +14,10 @@ Ce dépôt regroupe **tout ce qui est demandé** pour ce projet, en deux parties
 
 ## Notre Équipe
 
-**AIT TAYEB LYES**|
-**DZIRI RAYANE**
-**HAMMA SOFIANE**
-**LEKOUARA ABDELRAFIK**
+|**AIT TAYEB LYES**|
+|**DZIRI RAYANE**|
+|**HAMMA SOFIANE**|
+|**LEKOUARA ABDELRAFIK**|
 
 ---
 
