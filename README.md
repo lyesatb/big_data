@@ -23,7 +23,6 @@ Ce dépôt regroupe **tout ce qui est demandé** pour ce projet, en deux parties
 | Déploiement **Docker** | [`docker/docker-compose.yml`](docker/docker-compose.yml) |
 | Déploiement **Kubernetes** | [`k8s/questdb.yaml`](k8s/questdb.yaml) |
 | Scripts de démo (ingestion ILP + requêtes SQL) | [`demo/`](demo/) |
-| Support de présentation (source Gamma) | [`presentation/`](presentation/) |
 
 ---
 
